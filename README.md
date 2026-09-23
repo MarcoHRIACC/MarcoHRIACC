@@ -70,5 +70,5 @@ El objetivo es documentar progresivamente mi evolución profesional y técnica, 
 
 ### 📫 Contacto
 
-* **LinkedIn:** [https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/]
+* **LinkedIn:** https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/
 * **Correo:** [marcohernandezriquelme@gmail.com](mailto:marcohernandezriquelme@gmail.com)
