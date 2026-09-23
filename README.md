@@ -1,6 +1,6 @@
 # MarcoHRIACC
 
-## :: Perfil Profesional y Portafolio ::
+## .:: Perfil Profesional y Portafolio ::.
 
 # Hola, soy Marco Hernández Riquelme 👋
 
