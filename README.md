@@ -23,11 +23,11 @@ Actualmente me desempeño profesionalmente en el ámbito público y complemento 
 ### 🛠️ Tecnologías y Herramientas
 
 **Lenguajes y Desarrollo**
-- Python
-- PSeInt
-- HTML5
-- CSS3
-- PHP
+- .Python
+- .PSeInt
+- .HTML5
+- .CSS3
+- .PHP
 
 **Bases de Datos y Herramientas**
 - SQL
