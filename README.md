@@ -27,4 +27,5 @@ Soy administrador de empresas y estudiante de Ingeniería en Informática en IAC
 
 - [LinkedIn](https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/)
 - [Correo electrónico](mailto:marcohernandezriquelme@gmail.com)
+- 
 #Caldera - Atacama - Chile
