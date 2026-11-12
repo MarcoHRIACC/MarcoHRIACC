@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Administraci%C3%B3n+%7C+Inform%C3%A1tica+%7C+Transformaci%C3%B3n+Digital;Gesti%C3%B3n+estrat%C3%A9gica+%7C+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n" alt="Administración, informática y transformación digital" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Administraci%C3%B3n+%7C+Inform%C3%A1tica+%7C+Transformaci%C3%B3n+Digital;Gesti%C3%B3n+empresarial+%7C+Tecnolog%C3%ADa+%7C+Mejora+continua" alt="Administración, informática y transformación digital" />
 </p>
 
 <p align="center">
@@ -17,13 +17,16 @@
 
 ## 👋 Perfil profesional
 
-Soy **administrador de empresas**, estudiante de **Ingeniería en Informática en IACC** y propietario de **Inversiones G&B**. Combino experiencia en gestión empresarial, finanzas, compras públicas y cumplimiento tributario y normativo con una formación creciente en tecnologías de la información y transformación digital. También participo en iniciativas de liderazgo sindical y comunitario.
+Soy **administrador de empresas**, estudiante de **Ingeniería en Informática en IACC** y propietario de **Inversiones G&B**. Mi trayectoria combina gestión empresarial, administración financiera, compras públicas y cumplimiento tributario y normativo. Complemento esta experiencia con estudios en tecnologías de la información y un interés activo en la transformación digital.
 
-Mi objetivo es aplicar la tecnología para mejorar procesos, apoyar la toma de decisiones y desarrollar soluciones útiles para las organizaciones.
+Mi enfoque profesional está en conectar las necesidades de gestión con soluciones tecnológicas que contribuyan a optimizar procesos, fortalecer la toma de decisiones y generar valor para las organizaciones. También participo en espacios de liderazgo sindical y comunitario.
 
-- Experiencia en administración, gestión financiera y compras públicas, incluidos procesos de Mercado Público y ChileCompra.
+**Experiencia y áreas de desarrollo**
+
+- Administración de empresas, gestión financiera y análisis de información.
+- Compras públicas y procesos relacionados con Mercado Público y ChileCompra.
+- Cumplimiento tributario y normativo, y optimización de procesos administrativos.
 - Formación en desarrollo de software, bases de datos y arquitectura de sistemas.
-- Manejo de análisis de información, Excel avanzado y optimización de procesos administrativos.
 - Interés en ciberseguridad, redes, tecnologías Cisco e inteligencia artificial.
 
 📍 **Caldera, Región de Atacama, Chile**
@@ -81,8 +84,15 @@ Consulta mis [insignias verificables en Credly](https://www.credly.com/users/mar
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcoHRIACC&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Marco" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoHRIACC&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+  <a href="https://github.com/MarcoHRIACC">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoHRIACC&theme=tokyonight" alt="Resumen de actividad de GitHub de Marco Hernández" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MarcoHRIACC">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoHRIACC&theme=tokyonight" alt="Lenguajes utilizados en los repositorios de Marco Hernández" />
+  </a>
 </p>
 
 <p align="center">
