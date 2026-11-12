@@ -47,20 +47,36 @@ Soy **administrador de empresas**, estudiante de **Ingeniería en Informática e
 - 💊 [**Sistema de información para gestión farmacéutica**](./proyectos/farmacia/README.md) — diseño de una solución para gestionar productos, proveedores, compras, inventario y ventas.
 - 📚 [**Más proyectos y ejercicios**](./proyectos/README.md) — trabajos académicos y personales en desarrollo.
 
-## 🎖️ Insignias y certificaciones
+## 🏅 Insignias y credenciales digitales
 
-Estas son las **8 insignias visibles en mi perfil de Credly**, con emisor y fecha de emisión indicados en la plataforma. La lista se enlaza al [perfil público de Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly). Los nombres y fechas se transcribieron de la captura compartida; la coincidencia individual con las certificaciones de LinkedIn no se pudo comprobar de forma independiente.
+Consulta y verifica mis [8 insignias públicas en Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly) o mis [licencias y certificaciones en LinkedIn](https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/details/certifications/) (65, según mi perfil).
 
-| Insignia / certificación | Emisor | Fecha de emisión |
-|---|---|---|
-| Google Cybersecurity Professional Certificate (v.2) | Coursera | 24 oct 2026 |
-| Introduction to Modern AI | Cisco | 5 oct 2026 |
-| Python Essentials 2 | Cisco | 9 sept 2026 |
-| Networking Devices and Initial Configuration | Cisco | 8 ago 2026 |
-| Introduction to Cybersecurity | Cisco | 6 dic 2025 |
-| Computer Hardware Basics | Cisco | 10 ago 2025 |
-| Python Essentials 1 | Cisco | 9 ago 2025 |
-| IT Essentials | Cisco | 15 jun 2024 |
+### Cisco
+
+<table>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/f1dfd803-20e3-4851-b6bc-1ff9639f0237"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar en Credly" /><br /><strong>Introduction to Modern AI</strong><br />Cisco · 5 oct 2026</a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/347ee1d0-3c2b-4bf4-ab5b-5b482e79c2f2"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar en Credly" /><br /><strong>Python Essentials 2</strong><br />Cisco · 9 sept 2026</a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/2ac74014-6e57-4edb-993e-4e77e7b80585"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar en Credly" /><br /><strong>Networking Devices and Initial Configuration</strong><br />Cisco · 8 ago 2026</a></td>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/932c9abb-25d4-4358-92b0-9c6bdf585dd4"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar en Credly" /><br /><strong>Introduction to Cybersecurity</strong><br />Cisco · 6 dic 2025</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.credly.com/badges/20b058b6-1441-4606-bafa-7fb325d82fd4"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar en Credly" /><br /><strong>Computer Hardware Basics</strong><br />Cisco · 10 ago 2025</a></td>
+    <td align="center"><a href="https://www.credly.com/badges/0532e0f6-3d5e-4c2b-9938-ffd021b995d8"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar en Credly" /><br /><strong>Python Essentials 1</strong><br />Cisco · 9 ago 2025</a></td>
+    <td align="center"><a href="https://www.credly.com/badges/58ea75d9-c0b1-49d0-95e1-9577d1b393b5"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar en Credly" /><br /><strong>IT Essentials</strong><br />Cisco · 15 jun 2024</a></td>
+    <td></td>
+  </tr>
+</table>
+
+### Google / Coursera
+
+<table>
+  <tr>
+    <td align="center" width="25%"><a href="https://www.credly.com/badges/b126460e-1916-4345-8818-c9178e20b76a"><img src="https://img.shields.io/badge/Coursera-Insignia_verificable-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Verificar en Credly" /><br /><strong>Google Cybersecurity Professional Certificate (v.2)</strong><br />Coursera · 24 oct 2026</a></td>
+  </tr>
+</table>
+
+<p><sub>Los recuadros enlazan a las páginas individuales de verificación de Credly. Las imágenes de insignia personalizadas de Credly no se han incrustado; se muestran etiquetas verificables enlazadas porque los enlaces proporcionados son páginas de credencial, no enlaces directos a los archivos de imagen.</sub></p>
 
 ## 📊 Actividad en GitHub
 
