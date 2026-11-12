@@ -1,10 +1,10 @@
 <!-- Banner de perfil -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:0e7490,100:22c55e&text=Marco%20Hern%C3%A1ndez%20Riquelme&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Banner de Marco Hernández Riquelme" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:0e7490,100:22c55e&text=Marco%20Hern%C3%A1ndez%20Riquelme&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Banner de Marco Hernández Riquelme" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Administraci%C3%B3n+%7C+Inform%C3%A1tica+%7C+Tecnolog%C3%ADa;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica+en+IACC;Automatizaci%C3%B3n%2C+datos+y+mejora+de+procesos" alt="Presentación animada" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Administraci%C3%B3n+%7C+Inform%C3%A1tica+%7C+Transformaci%C3%B3n+Digital;Gesti%C3%B3n+estrat%C3%A9gica+%7C+Tecnolog%C3%ADas+de+la+Informaci%C3%B3n" alt="Administración, informática y transformación digital" />
 </p>
 
 <p align="center">
@@ -17,12 +17,14 @@
 
 ## 👋 Sobre mí
 
-Soy **administrador de empresas** y estudiante de **Ingeniería en Informática en IACC**. Me interesa aplicar la tecnología, los datos y la automatización para mejorar procesos y apoyar la transformación digital.
+Soy **administrador de empresas**, estudiante de **Ingeniería en Informática en IACC** y propietario de **Inversiones G&B**. Mi perfil integra la gestión estratégica de empresas con las tecnologías de la información y la transformación digital. También cuento con experiencia en cumplimiento tributario y normativo, y participo como líder sindical y comunitario.
 
 - Experiencia en administración, gestión financiera y compras públicas, incluidos procesos relacionados con Mercado Público / ChileCompra.
 - En formación en desarrollo de software, bases de datos y arquitectura de sistemas.
-- Interés en ciberseguridad, redes, tecnologías Cisco e inteligencia artificial generativa.
+- Interés en ciberseguridad, redes, tecnologías Cisco e inteligencia artificial.
 - Experiencia en análisis de información, Excel avanzado y optimización de procesos administrativos.
+
+📍 **Caldera, Región de Atacama, Chile**
 
 ## 🧰 Tecnologías y herramientas
 
@@ -47,17 +49,18 @@ Soy **administrador de empresas** y estudiante de **Ingeniería en Informática 
 
 ## 🎖️ Insignias y certificaciones
 
-Esta sección queda preparada para agregar **tus certificaciones e insignias verificables**. Envíame el nombre de cada curso o certificación, la institución, fecha y enlace (si tienes) y puedo incorporarlas aquí con sus imágenes y credenciales. No incluí certificaciones no confirmadas.
+Estas son las **8 insignias visibles en mi perfil de Credly**, con emisor y fecha de emisión indicados en la plataforma. La lista se enlaza al [perfil público de Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly). Los nombres y fechas se transcribieron de la captura compartida; la coincidencia individual con las certificaciones de LinkedIn no se pudo comprobar de forma independiente.
 
-<!-- Ejemplo para agregar una insignia cuando tengas los datos:
-<p align="center">
-  <a href="ENLACE_DE_VERIFICACION">
-    <img src="URL_DE_LA_INSIGNIA" width="110" alt="Nombre de la certificación" />
-  </a><br />
-  <b>Nombre de la certificación</b><br />
-  <sub>Institución · Mes año</sub>
-</p>
--->
+| Insignia / certificación | Emisor | Fecha de emisión |
+|---|---|---|
+| Google Cybersecurity Professional Certificate (v.2) | Coursera | 24 oct 2026 |
+| Introduction to Modern AI | Cisco | 5 oct 2026 |
+| Python Essentials 2 | Cisco | 9 sept 2026 |
+| Networking Devices and Initial Configuration | Cisco | 8 ago 2026 |
+| Introduction to Cybersecurity | Cisco | 6 dic 2025 |
+| Computer Hardware Basics | Cisco | 10 ago 2025 |
+| Python Essentials 1 | Cisco | 9 ago 2025 |
+| IT Essentials | Cisco | 15 jun 2024 |
 
 ## 📊 Actividad en GitHub
 
