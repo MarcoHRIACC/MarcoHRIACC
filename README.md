@@ -14,9 +14,9 @@
 
 ## Perfil ejecutivo
 
-Soy **administrador de empresas**, estudiante de **Ingeniería en Informática en IACC** y propietario de **Inversiones G&B**. Mi experiencia reúne gestión empresarial, administración financiera, compras públicas y cumplimiento tributario y normativo. Actualmente amplío este perfil con formación en tecnologías de la información y desarrollo de soluciones digitales.
+<p align="justify">Soy <strong>administrador de empresas</strong>, estudiante de <strong>Ingeniería en Informática en IACC</strong> y propietario de <strong>Inversiones G&amp;B</strong>. Mi experiencia reúne gestión empresarial, administración financiera, compras públicas y cumplimiento tributario y normativo. Actualmente amplío este perfil con formación en tecnologías de la información y desarrollo de soluciones digitales.</p>
 
-Me interesa conectar los objetivos de negocio con herramientas tecnológicas para contribuir a procesos más eficientes, una mejor gestión de la información y decisiones bien fundamentadas. También participo en iniciativas de liderazgo sindical y comunitario.
+<p align="justify">Me interesa conectar los objetivos de negocio con herramientas tecnológicas para contribuir a procesos más eficientes, una mejor gestión de la información y decisiones bien fundamentadas. También participo en iniciativas de liderazgo sindical y comunitario.</p>
 
 ### Propuesta de valor
 
@@ -50,29 +50,37 @@ Me interesa conectar los objetivos de negocio con herramientas tecnológicas par
 
 ## Certificaciones e insignias
 
-Mis credenciales se enlazan directamente a sus páginas de verificación. Puedes consultar también mi [perfil de Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly) y mis [certificaciones en LinkedIn](https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/details/certifications/).
+<p align="justify">Mis credenciales se enlazan directamente a sus páginas de verificación. Consulta mi <a href="https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly">perfil de Credly</a> y mis <a href="https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/details/certifications/">certificaciones en LinkedIn</a>.</p>
 
 ### Cisco
 
-| Insignia verificable | Credencial | Fecha |
-|---|---|---|
-| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/f1dfd803-20e3-4851-b6bc-1ff9639f0237) | **Introduction to Modern AI** | 5 oct 2026 |
-| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/347ee1d0-3c2b-4bf4-ab5b-5b482e79c2f2) | **Python Essentials 2** | 9 sept 2026 |
-| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/2ac74014-6e57-4edb-993e-4e77e7b80585) | **Networking Devices and Initial Configuration** | 8 ago 2026 |
-| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/932c9abb-25d4-4358-92b0-9c6bdf585dd4) | **Introduction to Cybersecurity** | 6 dic 2025 |
-| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/20b058b6-1441-4606-bafa-7fb325d82fd4) | **Computer Hardware Basics** | 10 ago 2025 |
-| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/0532e0f6-3d5e-4c2b-9938-ffd021b995d8) | **Python Essentials 1** | 9 ago 2025 |
-| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/58ea75d9-c0b1-49d0-95e1-9577d1b393b5) | **IT Essentials** | 15 jun 2024 |
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/f1dfd803-20e3-4851-b6bc-1ff9639f0237"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>Introduction to Modern AI</strong><br />5 oct 2026</a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/347ee1d0-3c2b-4bf4-ab5b-5b482e79c2f2"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>Python Essentials 2</strong><br />9 sept 2026</a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/2ac74014-6e57-4edb-993e-4e77e7b80585"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>Networking Devices and Initial Configuration</strong><br />8 ago 2026</a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/932c9abb-25d4-4358-92b0-9c6bdf585dd4"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>Introduction to Cybersecurity</strong><br />6 dic 2025</a></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/20b058b6-1441-4606-bafa-7fb325d82fd4"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>Computer Hardware Basics</strong><br />10 ago 2025</a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/0532e0f6-3d5e-4c2b-9938-ffd021b995d8"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>Python Essentials 1</strong><br />9 ago 2025</a></td>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/58ea75d9-c0b1-49d0-95e1-9577d1b393b5"><img src="https://img.shields.io/badge/Cisco-Insignia_verificable-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>IT Essentials</strong><br />15 jun 2024</a></td>
+    <td width="25%"></td>
+  </tr>
+</table>
 
 ### Google / Coursera
 
-| Insignia verificable | Credencial | Fecha |
-|---|---|---|
-| [![Coursera](https://img.shields.io/badge/Coursera-Verificar-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.credly.com/badges/b126460e-1916-4345-8818-c9178e20b76a) | **Google Cybersecurity Professional Certificate (v.2)** | 24 oct 2026 |
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="25%"><a href="https://www.credly.com/badges/b126460e-1916-4345-8818-c9178e20b76a"><img src="https://img.shields.io/badge/Coursera-Insignia_verificable-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Verificar credencial en Credly" /><br /><strong>Google Cybersecurity Professional Certificate (v.2)</strong><br />24 oct 2026</a></td>
+    <td width="25%"></td><td width="25%"></td><td width="25%"></td>
+  </tr>
+</table>
 
 ## 🏆 Logros en GitHub
 
-En lugar de depender de una imagen dinámica de terceros que está fallando, aquí tienes logros comprobables y enlaces directos a los repositorios:
+<p align="justify">Logros y actividad pública del perfil, presentados como tarjetas compactas y enlaces directos para que la información principal se mantenga visible aunque un servicio externo de trofeos no esté disponible.</p>
 
 <p align="center">
   <a href="https://github.com/MarcoHRIACC?tab=repositories"><img src="https://img.shields.io/badge/Repositorios_p%C3%BAblicos-3-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="3 repositorios públicos" /></a>
@@ -87,15 +95,11 @@ En lugar de depender de una imagen dinámica de terceros que está fallando, aqu
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <a href="https://github.com/MarcoHRIACC">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoHRIACC&theme=github_dark" alt="Resumen de actividad de GitHub" />
-  </a>
+  <a href="https://github.com/MarcoHRIACC"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoHRIACC&theme=github_dark" alt="Resumen de actividad de GitHub" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/MarcoHRIACC">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoHRIACC&theme=github_dark" alt="Lenguajes utilizados en los repositorios" />
-  </a>
+  <a href="https://github.com/MarcoHRIACC"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoHRIACC&theme=github_dark" alt="Lenguajes utilizados en los repositorios" /></a>
 </p>
 
 <p align="center">
