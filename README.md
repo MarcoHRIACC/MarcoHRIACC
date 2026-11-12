@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,55:164e63,100:0e7490&text=Marco%20Hern%C3%A1ndez%20Riquelme&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Marco Hernández Riquelme" />
 </p>
 
-<p align="center">
-  <strong>Administración de empresas · Ingeniería en Informática · Transformación digital</strong>
-</p>
+<p align="center"><strong>Administración de empresas · Ingeniería en Informática · Transformación digital</strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/"><img src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Perfil de LinkedIn" /></a>
@@ -50,17 +48,41 @@ Me interesa conectar los objetivos de negocio con herramientas tecnológicas par
 - **[IaccSemana8](https://github.com/MarcoHRIACC/IaccSemana8)** — trabajo académico de Programación Web II.
 - **[Marco-Hernandez-Riquelme](https://github.com/MarcoHRIACC/Marco-Hernandez-Riquelme)** — repositorio académico de procesos informáticos.
 
-## Credenciales profesionales
+## Certificaciones e insignias
 
-Consulta mis [insignias verificables en Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly) y mis [certificaciones en LinkedIn](https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/details/certifications/).
+Mis credenciales se enlazan directamente a sus páginas de verificación. Puedes consultar también mi [perfil de Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly) y mis [certificaciones en LinkedIn](https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/details/certifications/).
+
+### Cisco
+
+| Insignia verificable | Credencial | Fecha |
+|---|---|---|
+| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/f1dfd803-20e3-4851-b6bc-1ff9639f0237) | **Introduction to Modern AI** | 5 oct 2026 |
+| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/347ee1d0-3c2b-4bf4-ab5b-5b482e79c2f2) | **Python Essentials 2** | 9 sept 2026 |
+| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/2ac74014-6e57-4edb-993e-4e77e7b80585) | **Networking Devices and Initial Configuration** | 8 ago 2026 |
+| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/932c9abb-25d4-4358-92b0-9c6bdf585dd4) | **Introduction to Cybersecurity** | 6 dic 2025 |
+| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/20b058b6-1441-4606-bafa-7fb325d82fd4) | **Computer Hardware Basics** | 10 ago 2025 |
+| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/0532e0f6-3d5e-4c2b-9938-ffd021b995d8) | **Python Essentials 1** | 9 ago 2025 |
+| [![Cisco](https://img.shields.io/badge/Cisco-Verificar-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.credly.com/badges/58ea75d9-c0b1-49d0-95e1-9577d1b393b5) | **IT Essentials** | 15 jun 2024 |
+
+### Google / Coursera
+
+| Insignia verificable | Credencial | Fecha |
+|---|---|---|
+| [![Coursera](https://img.shields.io/badge/Coursera-Verificar-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.credly.com/badges/b126460e-1916-4345-8818-c9178e20b76a) | **Google Cybersecurity Professional Certificate (v.2)** | 24 oct 2026 |
 
 ## 🏆 Logros en GitHub
 
+En lugar de depender de una imagen dinámica de terceros que está fallando, aquí tienes logros comprobables y enlaces directos a los repositorios:
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MarcoHRIACC&theme=dracula&no-frame=true&no-bg=true&column=6&row=1" alt="Logros y trofeos de GitHub de Marco Hernández Riquelme" />
-  </a>
+  <a href="https://github.com/MarcoHRIACC?tab=repositories"><img src="https://img.shields.io/badge/Repositorios_p%C3%BAblicos-3-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="3 repositorios públicos" /></a>
+  <a href="https://github.com/MarcoHRIACC/MarcoHRIACC/stargazers"><img src="https://img.shields.io/badge/Stars_en_perfil-2-CA8A04?style=for-the-badge&logo=github&logoColor=white" alt="2 estrellas recibidas en repositorios" /></a>
+  <a href="https://github.com/MarcoHRIACC/IaccSemana8/network/members"><img src="https://img.shields.io/badge/Fork_de_proyecto-1-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Un fork en el proyecto IaccSemana8" /></a>
 </p>
+
+- ⭐ [Perfil y portafolio](https://github.com/MarcoHRIACC/MarcoHRIACC)
+- 🍴 [IaccSemana8 — proyecto con un fork](https://github.com/MarcoHRIACC/IaccSemana8)
+- ⭐ [Marco-Hernandez-Riquelme — proyecto con una estrella](https://github.com/MarcoHRIACC/Marco-Hernandez-Riquelme)
 
 ## 📊 Actividad en GitHub
 
