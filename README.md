@@ -52,13 +52,13 @@ Me interesa conectar los objetivos de negocio con herramientas tecnológicas par
 
 ## Credenciales profesionales
 
-Consulta mis [insignias verificables en Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly) y mis [licencias y certificaciones en LinkedIn](https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/details/certifications/).
+Consulta mis [insignias verificables en Credly](https://www.credly.com/users/marco-antonio-hernandez-riquelme/badges/credly) y mis [certificaciones en LinkedIn](https://www.linkedin.com/in/marco-antonio-hern%C3%A1ndez-riquelme-88617455/details/certifications/).
 
 ## 🏆 Logros en GitHub
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MarcoHRIACC&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="Logros y trofeos de GitHub de Marco Hernández Riquelme" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MarcoHRIACC&theme=dracula&no-frame=true&no-bg=true&column=6&row=1" alt="Logros y trofeos de GitHub de Marco Hernández Riquelme" />
   </a>
 </p>
 
